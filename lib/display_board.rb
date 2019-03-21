@@ -10,5 +10,3 @@ end
 puts "A Tic Tac Toe Board"
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
-
-
